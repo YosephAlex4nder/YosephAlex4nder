@@ -20,12 +20,8 @@
 <p>The pipeline may change, but the spirit of consistent production values persist.</p>
 
 <h3>EXTERNAL NODES</h3>
-<a href="https://www.linkedin.com/in/yosephburhanudin/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://yosephalex4nder.itch.io/">
-<img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io" />
-</a>
+<a href="https://www.linkedin.com/in/yosephburhanudin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://yosephalex4nder.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io" /></a>
 
 <h3>CURRENT FREQUENCY</h3>
 <a href="https://open.spotify.com/album/1UjZIWMI86WM8aUJ2oyx0G?si=qpXKfR1xRbybWOv3FXTK_Q">
