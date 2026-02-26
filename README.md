@@ -15,7 +15,7 @@
 
 <p>Each of my project boards are organized differently depending on the needs of the team I am working with and the nature of the project.</p>
 
-<p>Sometimes the tools are different. Jira, Trello, Miro. Or maybe even the engine or supplementary tools to support the project.</p>
+<p>I am not claiming to be at a master of these tools, but I do have a working exposure and understanding of them</p>
 
 <p>The pipeline may change, but the spirit of consistent production values persist.</p>
 
