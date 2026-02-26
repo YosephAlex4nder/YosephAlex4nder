@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,100:1c1917&height=250&section=header&text=YOSEPH%20BURHANUDIN&fontSize=50&fontColor=ff8c00&desc=Executive%20Producer%20%2F%2F%20Operations%20Architect&descSize=18&descAlignY=72&animation=fadeIn" alt="System Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:2A1100&height=300&section=header&text=YOSEPH%20BURHANUDIN&fontSize=55&fontColor=ff8c00&desc=Executive%20Producer%20%2F%2F%20Career%20Mentor%20%2F%2F%20Culture%20Architect&descSize=18&descAlignY=72&animation=fadeIn" alt="System Header" width="100%" />
 </div>
 
 <br>
 
 <table width="100%" style="border: none;">
 <tr style="border: none;">
-<td width="65%" valign="top" style="border: none;">
+<td width="55%" valign="top" style="border: none;">
 <h3>THE ARCHITECTURE</h3>
 <p>On one screen, I’m sketching the soul of a game, defining the vision, the pitch, and the monetization strategy keeping it alive, while simultaneously wading through the ticket pipeline to unblock my CTO. On another, I’m running studio-wide triage, only to clock out and dive into the operational guts of my wife's baking business.</p>
 
@@ -21,24 +21,32 @@
 <p>But the actual work is just building the sandbox itself. And the paradox of the sandbox is that you are ultimately just building sandcastles.</p>
 
 <p>The architecture is the art, but it’s entirely ephemeral. A sudden shift in scope kicks a wall down like a stray ball. A delayed milestone washes a section out like a turning tide. You don't build the system once, put it behind museum glass, and call it finished. You just keep working the sand with each pass of the wind and echo of the waves.</p>
-<br>
+</td>
+<td width="45%" valign="top" style="border: none;">
+<h3>EXTERNAL NODES</h3>
+<a href="https://www.linkedin.com/in/yosephburhanudin/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://yosephalex4nder.itch.io/">
+<img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io" />
+</a>
+<br><br>
 
 <h3>INTEGRATED TOOLSET</h3>
-
-<p><b>Production & Creative Vision</b></p>
+<p><b>Production & Vision</b></p>
 <p>
 <img src="https://img.shields.io/badge/FL_Studio-FF8C00?style=for-the-badge&logo=flstudio&logoColor=white" alt="FL Studio" />
 <img src="https://img.shields.io/badge/FMOD-000000?style=for-the-badge&logo=fmod&logoColor=white" alt="FMOD" />
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-<img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal" />
+<img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal" />
 <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" />
 <img src="https://img.shields.io/badge/Maya-37A5CC?style=for-the-badge&logo=autodesk&logoColor=white" alt="Maya" />
 <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
 <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite" />
-<img src="https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="Adobe Suite" />
+<img src="https://img.shields.io/badge/Adobe_CC-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="Adobe Suite" />
 </p>
 
-<p><b>Operational Ops & Pipelines</b></p>
+<p><b>Ops & Pipelines</b></p>
 <p>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/Perforce-1D1C1D?style=for-the-badge&logo=perforce&logoColor=white" alt="Perforce" />
@@ -52,7 +60,7 @@
 <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
 </p>
 
-<p><b>Enterprise & Communication</b></p>
+<p><b>Enterprise</b></p>
 <p>
 <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Suite" />
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />
@@ -66,25 +74,12 @@
 <img src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Teams" />
 <img src="https://img.shields.io/badge/Meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Meet" />
 </p>
-</td>
-<td width="35%" valign="top" style="border: none;">
-<h3>// EXTERNAL NODES</h3>
-<a href="https://www.linkedin.com/in/yosephburhanudin/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://yosephalex4nder.itch.io/">
-<img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io" />
-</a>
-<br><br>
+<br>
 
-<h3>// SYSTEM PULSE</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=YosephAlex4nder&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="System Stats" width="100%"/>
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosephAlex4nder&theme=tokyonight&hide_border=true&layout=compact" alt="Language Data" width="100%"/>
-<br><br>
-
-<h3>// CURRENT FREQUENCY</h3>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/playlist/6lXMWFMfrjipICt5bY7uzs?si=f7a6288a6e1d4001" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<h3>CURRENT FREQUENCY</h3>
+<a href="https://open.spotify.com/playlist/6lXMWFMfhjlPlCt5bY7uzS">
+<img src="https://img.shields.io/badge/Spotify-Listen_Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
+</a>
 </td>
 </tr>
 </table>
