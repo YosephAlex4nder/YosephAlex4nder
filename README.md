@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8D8B9,33:FFFFFF,66:F596AA,100:8F7765&height=180&section=header&text=YOSEPH%20BURHANUDIN&fontSize=55&fontColor=1c1917&desc=Executive%20Producer%20%7C%20Career%20Mentor%20%7C%20Culture%20Architect&descSize=18&fontAlignY=35&descAlignY=60&animation=fadeIn" alt="System Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8D8B9,33:FFFFFF,66:F596AA,100:8F7765&height=200&section=header&text=YOSEPH%20BURHANUDIN&fontSize=55&fontColor=1c1917&desc=Executive%20Producer%20%7C%20Career%20Mentor%20%7C%20Culture%20Architect&descSize=18&fontAlignY=30&descAlignY=50&animation=fadeIn" alt="System Header" width="100%" />
 </div>
 
 <br>
@@ -7,22 +7,18 @@
 <table width="100%" style="border: none;">
 <tr style="border: none;">
 <td width="55%" valign="top" style="border: none;">
-<h3>THE ARCHITECTURE</h3>
-<p>On one screen, I’m sketching the soul of a game, defining the vision, the pitch, and the monetization strategy keeping it alive, while simultaneously wading through the ticket pipeline to unblock my CTO. On another, I’m running studio-wide triage, only to clock out and dive into the operational guts of my wife's baking business.</p>
 
-<p>Somewhere in the margins, I’m trying to pour into a few careers as a mentor, and locking myself in a room to produce my own music from scratch.</p>
+<h3>ARCHITECTURE</h3>
+<p>This is an open-source readout of my internal mechanics.</p>
 
-<p>Looking at it on paper, it feels like a profound glitch in my attention span.</p>
+<p>If you access the project boards in this repository, you will find user generic story templates and basic operational frameworks I use to provide clarity into production pipelines. I do not keep them locked behind a vault.</p>
 
-<p>I spent a long time searching for the border where the business strategy ends and the creative work begins. But the line isn't real. It’s the exact same engine, just breathing different air. Carving out the exact EQ frequencies on a vocal track requires the exact same physics as calibrating a dev sprint or untangling the bottleneck of a pastry order. It’s all just energy exchange and resource economy. You define the shape of the sandbox, you invite the right talent inside, you sweep the debris out of their way, and then you force yourself to step back.</p>
+<p>Each of my project boards are organized differently depending on the needs of the team I am working with and the nature of the project.</p>
 
-<p>I kept waiting to feel like I had mastered one specific, sharp tool.</p>
+<p>Sometimes the tools are different. Jira, Trello, Miro. Or maybe even the engine or supplementary tools to support the project.</p>
 
-<p>But the actual work is just building the sandbox itself. And the paradox of the sandbox is that you are ultimately just building sandcastles.</p>
+<p>The pipeline may change, but the spirit of consistent production values persist.</p>
 
-<p>The architecture is the art, but it’s entirely ephemeral. A sudden shift in scope kicks a wall down like a stray ball. A delayed milestone washes a section out like a turning tide. You don't build the system once, put it behind museum glass, and call it finished. You just keep working the sand with each pass of the wind and echo of the waves.</p>
-</td>
-<td width="45%" valign="top" style="border: none;">
 <h3>EXTERNAL NODES</h3>
 <a href="https://www.linkedin.com/in/yosephburhanudin/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -30,7 +26,13 @@
 <a href="https://yosephalex4nder.itch.io/">
 <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io" />
 </a>
-<br>
+
+<h3>CURRENT FREQUENCY</h3>
+<a href="https://open.spotify.com/album/1UjZIWMI86WM8aUJ2oyx0G?si=qpXKfR1xRbybWOv3FXTK_Q">
+<img src="https://img.shields.io/badge/Spotify-Listen_Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
+  
+</td>
+<td width="45%" valign="top" style="border: none;">
 
 <h3>INTEGRATED TOOLSET</h3>
 <p><b>[Production & Vision]</b></p>
@@ -79,9 +81,6 @@
 <img src="https://img.shields.io/badge/Meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Meet" />
 </p>
 
-<h3>CURRENT FREQUENCY</h3>
-<a href="https://open.spotify.com/album/1UjZIWMI86WM8aUJ2oyx0G?si=qpXKfR1xRbybWOv3FXTK_Q">
-<img src="https://img.shields.io/badge/Spotify-Listen_Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
 </a>
 </td>
 </tr>
