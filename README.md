@@ -37,6 +37,7 @@
 <p>
 <img src="https://img.shields.io/badge/FL_Studio-FF8C00?style=for-the-badge&logo=flstudio&logoColor=white" alt="FL Studio" />
 <img src="https://img.shields.io/badge/FMOD-000000?style=for-the-badge&logo=fmod&logoColor=white" alt="FMOD" />
+<img src="https://img.shields.io/badge/Wwise-000000?style=for-the-badge" alt="Wwise" />
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal" />
 <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" />
@@ -44,6 +45,7 @@
 <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
 <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite" />
 <img src="https://img.shields.io/badge/Adobe_CC-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="Adobe Suite" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
 <p><b>[Ops & Pipelines]</b></p>
@@ -54,6 +56,9 @@
 <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp" />
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
 <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro" />
+<img src="https://img.shields.io/badge/Taiga-25C2A0?style=for-the-badge&logo=taiga&logoColor=white" alt="Taiga" />
+<img src="https://img.shields.io/badge/Leantime-1A2B49?style=for-the-badge" alt="Leantime" />
+<img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white" alt="Nextcloud" />
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
 <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
