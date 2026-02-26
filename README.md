@@ -14,7 +14,11 @@
 
 <p>Looking at it on paper, it feels like a profound glitch in my attention span.</p>
 
-<p>I spent a long time searching for the border where the business strategy ends and the creative work begins. But the line isn't real. It’s the exact same engine, just breathing different air. Carving out the exact EQ frequencies on a vocal track requires the exact same physics as calibrating a dev sprint or untangling the bottleneck of a pastry order. It’s all just energy exchange and resource economy. You define the shape of the sandbox, you invite the right talent inside, you sweep the debris out of their way, and then you force yourself to step back.</p>
+<p>I spent a long time searching for the border where the business strategy ends and the creative work begins.</p> 
+  
+<p>But the line isn't real.</p> 
+
+<p>It’s the exact same engine, just breathing different air. Carving out the exact EQ frequencies on a vocal track requires the exact same physics as calibrating a dev sprint or untangling the bottleneck of a pastry order. It’s all just energy exchange and resource economy. You define the shape of the sandbox, you invite the right talent inside, you sweep the debris out of their way, and then you force yourself to step back.</p>
 
 <p>I kept waiting to feel like I had mastered one specific, sharp tool.</p>
 
