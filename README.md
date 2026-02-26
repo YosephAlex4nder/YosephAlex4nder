@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaCRi8CEtkI/giphy.gif" alt="Late Night Studio Vibes" width="100%" style="border-radius: 8px;" />
+  <img src="https://images.unsplash.com/photo-1555532538-dcdbd01d373d?auto=format&fit=crop&w=1200&q=80" alt="Late Night Studio Vibes" width="100%" style="border-radius: 8px;" />
 </div>
 
 <br>
