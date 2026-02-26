@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://images.unsplash.com/photo-1555532538-dcdbd01d373d?auto=format&fit=crop&w=1200&q=80" alt="Late Night Studio Vibes" width="100%" style="border-radius: 8px;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,100:1c1917&height=250&section=header&text=YOSEPH%20BURHANUDIN&fontSize=50&fontColor=ff8c00&desc=Executive%20Producer%20%2F%2F%20Operations%20Architect&descSize=18&descAlignY=72&animation=fadeIn" alt="System Header" width="100%" />
 </div>
 
 <br>
@@ -7,7 +7,7 @@
 <table width="100%" style="border: none;">
 <tr style="border: none;">
 <td width="65%" valign="top" style="border: none;">
-<h3>// THE ARCHITECTURE</h3>
+<h3>THE ARCHITECTURE</h3>
 <p>On one screen, I’m sketching the soul of a game, defining the vision, the pitch, and the monetization strategy keeping it alive, while simultaneously wading through the ticket pipeline to unblock my CTO. On another, I’m running studio-wide triage, only to clock out and dive into the operational guts of my wife's baking business.</p>
 
 <p>Somewhere in the margins, I’m trying to pour into a few careers as a mentor, and locking myself in a room to produce my own music from scratch.</p>
@@ -23,8 +23,7 @@
 <p>The architecture is the art, but it’s entirely ephemeral. A sudden shift in scope kicks a wall down like a stray ball. A delayed milestone washes a section out like a turning tide. You don't build the system once, put it behind museum glass, and call it finished. You just keep working the sand with each pass of the wind and echo of the waves.</p>
 <br>
 
-<h3>// INTEGRATED TOOLSET</h3>
-<p>The translation of intent into reality requires precision instruments.</p>
+<h3>INTEGRATED TOOLSET</h3>
 
 <p><b>Production & Creative Vision</b></p>
 <p>
@@ -85,7 +84,7 @@
 <br><br>
 
 <h3>// CURRENT FREQUENCY</h3>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="YOUR_SPOTIFY_URL_HERE" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/playlist/6lXMWFMfrjipICt5bY7uzs?si=f7a6288a6e1d4001" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </td>
 </tr>
 </table>
