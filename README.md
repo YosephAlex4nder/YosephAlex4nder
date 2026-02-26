@@ -83,4 +83,4 @@
 
 <br>
 
-<p align="center">You wake up, and you rebuild the castle.</p>
+<p align="center">Let me build and maintain the structure that protects the success of your team</p>
