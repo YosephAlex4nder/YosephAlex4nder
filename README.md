@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:2A1100&height=300&section=header&text=YOSEPH%20BURHANUDIN&fontSize=55&fontColor=ff8c00&desc=Executive%20Producer%20%2F%2F%20Career%20Mentor%20%2F%2F%20Culture%20Architect&descSize=18&descAlignY=72&animation=fadeIn" alt="System Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8D8B9,33:FFFFFF,66:F596AA,100:8F7765&height=220&section=header&text=YOSEPH%20BURHANUDIN&fontSize=55&fontColor=1c1917&desc=Executive%20Producer%20%7C%20Career%20Mentor%20%7C%20Culture%20Architect&descSize=18&fontAlignY=40&descAlignY=65&animation=fadeIn" alt="System Header" width="100%" />
 </div>
 
 <br>
@@ -30,10 +30,10 @@
 <a href="https://yosephalex4nder.itch.io/">
 <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io" />
 </a>
-<br><br>
+<br>
 
 <h3>INTEGRATED TOOLSET</h3>
-<p><b>Production & Vision</b></p>
+<p><b>[Production & Vision]</b></p>
 <p>
 <img src="https://img.shields.io/badge/FL_Studio-FF8C00?style=for-the-badge&logo=flstudio&logoColor=white" alt="FL Studio" />
 <img src="https://img.shields.io/badge/FMOD-000000?style=for-the-badge&logo=fmod&logoColor=white" alt="FMOD" />
@@ -46,11 +46,10 @@
 <img src="https://img.shields.io/badge/Adobe_CC-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="Adobe Suite" />
 </p>
 
-<p><b>Ops & Pipelines</b></p>
+<p><b>[Ops & Pipelines]</b></p>
 <p>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/Perforce-1D1C1D?style=for-the-badge&logo=perforce&logoColor=white" alt="Perforce" />
-<img src="https://img.shields.io/badge/Fork-24292E?style=for-the-badge" alt="Fork" />
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp" />
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
@@ -60,7 +59,7 @@
 <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
 </p>
 
-<p><b>Enterprise</b></p>
+<p><b>[Enterprise]</b></p>
 <p>
 <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Suite" />
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />
@@ -74,10 +73,9 @@
 <img src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Teams" />
 <img src="https://img.shields.io/badge/Meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Meet" />
 </p>
-<br>
 
 <h3>CURRENT FREQUENCY</h3>
-<a href="https://open.spotify.com/playlist/6lXMWFMfhjlPlCt5bY7uzS">
+<a href="https://open.spotify.com/album/1UjZIWMI86WM8aUJ2oyx0G?si=qpXKfR1xRbybWOv3FXTK_Q">
 <img src="https://img.shields.io/badge/Spotify-Listen_Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
 </a>
 </td>
