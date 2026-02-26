@@ -9,9 +9,13 @@
 <td width="55%" valign="top" style="border: none;">
 
 <h3>ARCHITECTURE</h3>
-<p>This is an open-source readout of my internal mechanics.</p>
 
 <p>If you access the project boards in this repository, you will find user generic story templates and basic operational frameworks I use to provide clarity into production pipelines. I do not keep them locked behind a vault.</p>
+
+<a href="https://github.com/users/YosephAlex4nder/projects/2" style="vertical-align: middle;">
+<img src="https://img.shields.io/badge/PROJECT_BOARD-2D333B?style=for-the-badge&logo=github&logoColor=white" alt="Project Board" />
+</a>
+<br>
 
 <p>Each of my project boards are organized differently depending on the needs of the team I am working with and the nature of the project.</p>
 
