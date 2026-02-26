@@ -22,9 +22,9 @@
     </td>
     <td width="35%" valign="top" style="border: none;">
       <h3>// SYSTEM PULSE</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="System Stats" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=YosephAlex4nder&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="System Stats" width="100%"/>
       <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&layout=compact" alt="Language Data" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosephAlex4nder&theme=tokyonight&hide_border=true&layout=compact" alt="Language Data" width="100%"/>
     </td>
   </tr>
 </table>
