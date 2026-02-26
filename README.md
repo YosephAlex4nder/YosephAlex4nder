@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8D8B9,33:FFFFFF,66:F596AA,100:8F7765&height=220&section=header&text=YOSEPH%20BURHANUDIN&fontSize=55&fontColor=1c1917&desc=Executive%20Producer%20%7C%20Career%20Mentor%20%7C%20Culture%20Architect&descSize=18&fontAlignY=40&descAlignY=65&animation=fadeIn" alt="System Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8D8B9,33:FFFFFF,66:F596AA,100:8F7765&height=180&section=header&text=YOSEPH%20BURHANUDIN&fontSize=55&fontColor=1c1917&desc=Executive%20Producer%20%7C%20Career%20Mentor%20%7C%20Culture%20Architect&descSize=18&fontAlignY=35&descAlignY=60&animation=fadeIn" alt="System Header" width="100%" />
 </div>
 
 <br>
@@ -14,11 +14,7 @@
 
 <p>Looking at it on paper, it feels like a profound glitch in my attention span.</p>
 
-<p>I spent a long time searching for the border where the business strategy ends and the creative work begins.</p> 
-  
-<p>But the line isn't real.</p> 
-
-<p>It’s the exact same engine, just breathing different air. Carving out the exact EQ frequencies on a vocal track requires the exact same physics as calibrating a dev sprint or untangling the bottleneck of a pastry order. It’s all just energy exchange and resource economy. You define the shape of the sandbox, you invite the right talent inside, you sweep the debris out of their way, and then you force yourself to step back.</p>
+<p>I spent a long time searching for the border where the business strategy ends and the creative work begins. But the line isn't real. It’s the exact same engine, just breathing different air. Carving out the exact EQ frequencies on a vocal track requires the exact same physics as calibrating a dev sprint or untangling the bottleneck of a pastry order. It’s all just energy exchange and resource economy. You define the shape of the sandbox, you invite the right talent inside, you sweep the debris out of their way, and then you force yourself to step back.</p>
 
 <p>I kept waiting to feel like I had mastered one specific, sharp tool.</p>
 
