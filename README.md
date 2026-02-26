@@ -66,7 +66,6 @@
 <p>
 <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Suite" />
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
 <img src="https://img.shields.io/badge/Workday-005CB9?style=for-the-badge&logo=workday&logoColor=white" alt="Workday" />
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI" />
 <img src="https://img.shields.io/badge/Yoobic-FF0000?style=for-the-badge" alt="Yoobic" />
