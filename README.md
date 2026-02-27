@@ -10,7 +10,7 @@
 
 <h3>ARCHITECTURE</h3>
 
-<p>If you access the project boards in this repository, you will find user generic story templates and basic operational frameworks I use to provide clarity into production pipelines. I do not keep them locked behind a vault.</p>
+<p>If you access the project boards in this repository, you will find generic user story templates and basic operational frameworks I use to provide clarity into production pipelines. I do not keep them locked behind a vault.</p>
 
 <a href="https://github.com/users/YosephAlex4nder/projects/2" style="vertical-align: middle;">
 <img src="https://img.shields.io/badge/PROJECT_BOARD-2D333B?style=for-the-badge&logo=github&logoColor=white" alt="Project Board" />
